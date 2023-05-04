@@ -21,3 +21,6 @@ def onHighlighted():
         for char in result:
             time.sleep(0.1)
             pyautogui.typewrite(char)
+            
+while True:
+    onHighlighted()

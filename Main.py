@@ -10,3 +10,6 @@ def onHighlighted():
 
     if re.search(r'[+\-*/^=0-9\s]', text):
         result = str(eval(text.replace('^', '**')))
+        
+        if result[-2:] == '.0':
+            result = result[:-2]

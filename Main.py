@@ -13,3 +13,7 @@ def onHighlighted():
         
         if result[-2:] == '.0':
             result = result[:-2]
+
+        for char in text:
+            time.sleep(0.1)
+            keyboard.press('backspace')

@@ -17,3 +17,7 @@ def onHighlighted():
         for char in text:
             time.sleep(0.1)
             keyboard.press('backspace')
+
+        for char in result:
+            time.sleep(0.1)
+            pyautogui.typewrite(char)

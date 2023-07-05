@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">این ماشین حساب ، طوری کار میکند که هر جایی که بشود متنی نوشت ، معادله ای نوشته و کنترل + سی را فشار داده و بعد هم کنترل + وی را فشار دهید ، جواب را مینویسد<br>This calculator works in such a way that you can write text, write an equation and press ctrl + c and then press ctrl + v, it writes the answer.<br><br>https://www.youtube.com/watch?v=xxBHsK23nmY&t=20s</h4>
+<h4 align="center">این ماشین حساب ، طوری کار میکند که هر جایی که بشود متنی نوشت ، معادله ای نوشته و کنترل + سی را فشار داده و بعد هم کنترل + وی را فشار دهید ، جواب را مینویسد<br>This calculator works in such a way that you can write text, write an equation and press ctrl + c and then press ctrl + v, it writes the answer.<br><br>https://www.youtube.com/watch?v=xxBHsK23nmY</h4>
 
 ###
 
